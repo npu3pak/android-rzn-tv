@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Новости Рязани</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="action_open_in_browser">Открыть сайт</string>
+    <string name="title_activity_content">Подробности</string>
+    <string name="content_button_retry">Повторить</string>
+
+</resources>
